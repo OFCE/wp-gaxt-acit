@@ -15,10 +15,12 @@
   "wp": 10,
   "annee": 2026,
   "version": "v0",
+  "stage": false,
   "date": "2026-08-18",
-  "date_modified": "2026-08-21",
+  "date_modified": "2026-08-28",
   "url": "https://www.ofce.fr/wp/2026/10/v0/",
   "pdf": "OFCEWP2026-10.pdf",
-  "repo": "https://github.com/OFCE/acit/",
-  "lang": "en"
+  "repo": "https://github.com/OFCE/wp-gaxt-acit/",
+  "lang": "en",
+  "source-repo": "OFCE/wp-gaxt-acit"
 }

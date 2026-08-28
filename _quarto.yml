@@ -26,14 +26,14 @@ comments:
 
 # Ce qui suit ne doit pas être modifié manuellement
 project:
-  type: website
+  type: ofce-website
 
 execute:
   freeze: auto
 
 website:
   site-url: https://www.ofce.fr/
-  repo-url: https://github.com/OFCE/acit/
+  repo-url: https://github.com/OFCE/wp-gaxt-acit/
   page-navigation: true
   bread-crumbs: true
   favicon: www/fofce-wp.png
@@ -109,8 +109,8 @@ website:
     - text: "French version"
       icon: translate
       href: https://www.ofce.fr/wp/2026/6
-  title: Why and How Should the Richest Be Taxed?
   site-path: 2026/10/v0
+  draft-mode: visible
 
 format:
   wp-html: default
@@ -125,3 +125,5 @@ citation:
   # ne pas les renseigner manuellement.
   url: https://www.ofce.fr/wp/2026/10/
   issue: 2026-10
+draft: false
+stage-target: gh-pages
