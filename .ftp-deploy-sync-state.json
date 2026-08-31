@@ -1,25 +1,25 @@
 {
     "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
     "version": "1.0.0",
-    "generatedTime": 1787310161850,
+    "generatedTime": 1787939826947,
     "data": [
         {
             "type": "file",
             "name": ".ftp-deploy-sync-state.json",
             "size": 11676,
-            "hash": "261333075539e4f1bfc46f059a74a76468875ae1081054cade53bb0aa7f21daa"
+            "hash": "d8878fd44d06c7bee42524396fb3af6be81c6728857221030c35df8757813d51"
         },
         {
             "type": "file",
             "name": "OFCEWP2026-10.pdf",
-            "size": 383741,
-            "hash": "177a95b395f5d12fc54f3586b212efba659c706ae735258acb9a4bbb03d24ddb"
+            "size": 383733,
+            "hash": "1ab0dd0aba68a1f923cd5c0792266e87ddf28d859f12fe082f39a493bbd92e5b"
         },
         {
             "type": "file",
             "name": "annexes.html",
-            "size": 34725,
-            "hash": "4322ca87ef3b923c5798474283d1c19dd8f239c913e044e8c60527f1a6066be9"
+            "size": 36289,
+            "hash": "cc2a933dae9fe18e23ec05bdf0cfd8693814745fc0aea3338b81bcc500736153"
         },
         {
             "type": "folder",
@@ -28,26 +28,26 @@
         {
             "type": "file",
             "name": "index.html",
-            "size": 223455,
-            "hash": "256463e63923b585e754e8146d720387a53d6e14132fa3693c589818e4ed55a4"
+            "size": 226860,
+            "hash": "a929353b72f975e889fd61d0d6d6f9d408d9fc8cbca27491b28b415dcd8a466c"
         },
         {
             "type": "file",
             "name": "manifest.json",
-            "size": 2420,
-            "hash": "dde4a18bba64c990531bf81e8a838dc58fae9d791762b4a4e3ad41be2b06b54d"
+            "size": 2484,
+            "hash": "03b0de4cbc9e65390e80a09bc5bb03ba4d8545a937bd1385f59282e929ee3c73"
         },
         {
             "type": "file",
             "name": "news.html",
-            "size": 34829,
-            "hash": "d5b2ef24b74c1e342a98317a5968c29b377924d9756cdbb032f1bde3ce619c1c"
+            "size": 36393,
+            "hash": "da771f8ff480325d7981c3848662419c5cf236f51655d651e0c99e87ce915e71"
         },
         {
             "type": "file",
             "name": "search.json",
-            "size": 101506,
-            "hash": "73d6a5fde1fa7a88293eb85f0120b1ec32381f59edd1dc25ab79f57f24c4192a"
+            "size": 101594,
+            "hash": "51b49a3ef2ee44b815ffd16763ecabef4bf757cbc355f3fa5247a3e691b73229"
         },
         {
             "type": "folder",
@@ -57,7 +57,7 @@
             "type": "file",
             "name": "sitemap.xml",
             "size": 420,
-            "hash": "81c67e210404c0947c8ef3700d26775882053e062277112956aa1aa46ed73ffa"
+            "hash": "cbf36ad9f298d52c4e91aacb5d9e70d1174333fd7dd4f677359ec56d39ff9d5f"
         },
         {
             "type": "folder",
@@ -71,11 +71,19 @@
         },
         {
             "type": "folder",
+            "name": "site_libs/clipboard"
+        },
+        {
+            "type": "folder",
             "name": "site_libs/bootstrap"
         },
         {
             "type": "folder",
-            "name": "site_libs/clipboard"
+            "name": "site_libs/cookie-consent"
+        },
+        {
+            "type": "folder",
+            "name": "site_libs/quarto-contrib"
         },
         {
             "type": "folder",
@@ -84,10 +92,6 @@
         {
             "type": "folder",
             "name": "site_libs/quarto-nav"
-        },
-        {
-            "type": "folder",
-            "name": "site_libs/quarto-contrib"
         },
         {
             "type": "folder",
@@ -107,6 +111,18 @@
         },
         {
             "type": "file",
+            "name": "site_libs/clipboard/clipboard.min.js",
+            "size": 9160,
+            "hash": "e17a1d816e13c0826e0ed7febfabc3277f45571234bde0bf9120829a7169edc9"
+        },
+        {
+            "type": "file",
+            "name": "site_libs/bootstrap/bootstrap-ebf9a0db2f5530624ab81a25777e93fd.min.css",
+            "size": 523587,
+            "hash": "ee3486342042d5bf56ccf7c5623aae27873a639a37c9df314a36e19b3ff1427e"
+        },
+        {
+            "type": "file",
             "name": "site_libs/bootstrap/bootstrap-icons.css",
             "size": 99464,
             "hash": "01253947f506e030589e4f33fc7ec7ccdfb9505e2e596dedf16445f12e243c0a"
@@ -119,21 +135,33 @@
         },
         {
             "type": "file",
-            "name": "site_libs/bootstrap/bootstrap.hashed.min.css",
-            "size": 522906,
-            "hash": "93c0fac5df3a617db2405a2ef437ef7813663f613978d6aa41175af51970af6b"
-        },
-        {
-            "type": "file",
             "name": "site_libs/bootstrap/bootstrap.min.js",
             "size": 80668,
             "hash": "d2ea6c1e0cabca20d18e924b25a1cd0187c38ba7c33f60ab06e1b0402b9bcdb5"
         },
         {
             "type": "file",
-            "name": "site_libs/clipboard/clipboard.min.js",
-            "size": 9160,
-            "hash": "e17a1d816e13c0826e0ed7febfabc3277f45571234bde0bf9120829a7169edc9"
+            "name": "site_libs/cookie-consent/cookie-consent.css",
+            "size": 75,
+            "hash": "9be199c11f99e906de71b99a9d4e7e113b979007c90125d7c49a593bc7f22e28"
+        },
+        {
+            "type": "file",
+            "name": "site_libs/cookie-consent/cookie-consent.js",
+            "size": 206910,
+            "hash": "8705f2ec4440409a916b9e3a76e038446f806d1d3a5c15be1815691280cd3a38"
+        },
+        {
+            "type": "folder",
+            "name": "site_libs/quarto-contrib/fontawesome6-6.7.2"
+        },
+        {
+            "type": "folder",
+            "name": "site_libs/quarto-contrib/glightbox"
+        },
+        {
+            "type": "folder",
+            "name": "site_libs/quarto-contrib/quarto-project"
         },
         {
             "type": "file",
@@ -143,15 +171,15 @@
         },
         {
             "type": "file",
-            "name": "site_libs/quarto-html/quarto-syntax-highlighting.hashed.css",
-            "size": 3616,
-            "hash": "f10b47bd6d91be3033dbaacc42d955c01b3369699bb1ce155b1a67eab6619ee0"
-        },
-        {
-            "type": "file",
             "name": "site_libs/quarto-html/popper.min.js",
             "size": 20084,
             "hash": "4d50586b184724d39ddfe0f6582861664eddd5e806e5a79e0dbaa832361414d0"
+        },
+        {
+            "type": "file",
+            "name": "site_libs/quarto-html/quarto-syntax-highlighting-1352f9db2132ed6d9c4208da9f3ea9cc.css",
+            "size": 3616,
+            "hash": "f10b47bd6d91be3033dbaacc42d955c01b3369699bb1ce155b1a67eab6619ee0"
         },
         {
             "type": "file",
@@ -188,18 +216,6 @@
             "hash": "a209dafb198d7c8e77cb398912b7225806e7b998211afa1fb269a4ef54ff56f6"
         },
         {
-            "type": "folder",
-            "name": "site_libs/quarto-contrib/fontawesome6-6.7.2"
-        },
-        {
-            "type": "folder",
-            "name": "site_libs/quarto-contrib/glightbox"
-        },
-        {
-            "type": "folder",
-            "name": "site_libs/quarto-contrib/quarto-project"
-        },
-        {
             "type": "file",
             "name": "site_libs/quarto-search/autocomplete.umd.js",
             "size": 96397,
@@ -216,12 +232,6 @@
             "name": "site_libs/quarto-search/quarto-search.js",
             "size": 43121,
             "hash": "1a23221f499b3993dc66ca5c8913e4e6602dfa4652337e9fbf75139ded5ece68"
-        },
-        {
-            "type": "file",
-            "name": "site_libs/quarto-html/tabsets/tabsets.js",
-            "size": 2882,
-            "hash": "a9c226bf70e82eaf5476f619cecfb70b4446b87ce4d1634d6404b0b2ba006d15"
         },
         {
             "type": "folder",
@@ -241,15 +251,15 @@
         },
         {
             "type": "file",
-            "name": "site_libs/quarto-contrib/glightbox/glightbox.min.css",
-            "size": 13749,
-            "hash": "6d3f62d4d17969f9c70e9438cf671004725019e868123f2ebc295a006f8d5d2d"
-        },
-        {
-            "type": "file",
             "name": "site_libs/quarto-contrib/glightbox/glightbox.min.js",
             "size": 55880,
             "hash": "03dfe1fbce92a9f17fcd1a1501213bd820d050ab085c338419ab06a3631c9459"
+        },
+        {
+            "type": "file",
+            "name": "site_libs/quarto-contrib/glightbox/glightbox.min.css",
+            "size": 13749,
+            "hash": "6d3f62d4d17969f9c70e9438cf671004725019e868123f2ebc295a006f8d5d2d"
         },
         {
             "type": "file",
@@ -263,9 +273,9 @@
         },
         {
             "type": "file",
-            "name": "site_libs/quarto-contrib/fontawesome6-6.7.2/1e21o67/fa-brands-400.woff2",
-            "size": 118684,
-            "hash": "d7236a19bf23cbb2027280e8f51dc99d6c45976a2ed60de73382b034b18a2b68"
+            "name": "site_libs/quarto-html/tabsets/tabsets.js",
+            "size": 2882,
+            "hash": "a9c226bf70e82eaf5476f619cecfb70b4446b87ce4d1634d6404b0b2ba006d15"
         },
         {
             "type": "file",
@@ -278,6 +288,12 @@
             "name": "site_libs/quarto-contrib/fontawesome6-6.7.2/1e21o67/fa-regular-400.ttf",
             "size": 68064,
             "hash": "54cf6086f7bb21f9d072ad494a19b4681fa516dd0a14cee52da01d3651a913a3"
+        },
+        {
+            "type": "file",
+            "name": "site_libs/quarto-contrib/fontawesome6-6.7.2/1e21o67/fa-brands-400.woff2",
+            "size": 118684,
+            "hash": "d7236a19bf23cbb2027280e8f51dc99d6c45976a2ed60de73382b034b18a2b68"
         },
         {
             "type": "file",
