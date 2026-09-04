@@ -1,0 +1,26 @@
+{
+  "title": "Why and How Should the Richest Be Taxed?",
+  "authors": [
+    {
+      "name": "Guillaume Allègre",
+      "affiliation": "OFCE, Sciences Po Paris"
+    },
+    {
+      "name": "Xavier Timbeau",
+      "affiliation": "OFCE, Sciences Po Paris",
+      "orcid": "0000-0002-6198-5953"
+    }
+  ],
+  "abstract": "We re-examine here the proposal for a floor tax on wealth above €100 million, known as the “Zucman tax”, and propose an alternative tax (ACIT). The “Zucman tax” attempts to respond to the decline in effective tax rates at the top of the distribution of “economic” income. A floor tax on large fortunes would restore progressivity, block certain avoidance strategies, and bring the contribution of the ultra-rich closer to the principle of taxation according to ability to pay. However, while the objective is legitimate, the proposal to tax wealth is inconsistent with the problem identified — the under-taxation of economic income — because wealth is not a good proxy for income at the individual level. Moreover, if the tax base depends on market valuation, agents have an incentive to avoid its revelation. Staying “in the shadow of the market” allows both a systemic undervaluation of wealth and the avoidance of taxation during sharp rises followed by falls. By tying the tax to observable price signals, such as those produced by funding rounds or initial public offerings, the tax could discourage market participation — which is precisely what makes it possible to establish these valuations. There is an alternative that pursues the same objectives and answers the main objections. Rather than relying on imperfect wealth proxies, we propose to tax economic income directly, that is, annual income flows augmented by capital gains. Current tax law, in France and in other countries, largely exempts realized capital gains. A tax on ascertainable comprehensive income (ACIT) — “ascertainable” in the sense of realized and known with certainty — would eliminate these possibilities of erasure by taxing all capital gains upon sale, as well as upon transfers for consideration or free of charge (gifts and inheritances).",
+  "wp": 10,
+  "annee": 2026,
+  "version": "v0",
+  "stage": false,
+  "date": "2026-08-18",
+  "date_modified": "2026-09-04",
+  "url": "https://www.ofce.fr/wp/2026/10/v0/",
+  "pdf": "OFCEWP2026-10.pdf",
+  "repo": "https://github.com/OFCE/wp-gaxt-acit/",
+  "lang": "en",
+  "source-repo": "OFCE/wp-gaxt-acit"
+}
