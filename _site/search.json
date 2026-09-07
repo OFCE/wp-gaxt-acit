@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "Historique des révisions",
-    "section": "",
-    "text": "Première mise en ligne."
-  },
-  {
-    "objectID": "news.html#version-v0",
-    "href": "news.html#version-v0",
-    "title": "Historique des révisions",
-    "section": "",
-    "text": "Première mise en ligne."
-  },
-  {
-    "objectID": "annexes.html",
-    "href": "annexes.html",
-    "title": "Annexes",
-    "section": "",
-    "text": "Contenu de l’annexe A."
-  },
-  {
-    "objectID": "annexes.html#annexe-a",
-    "href": "annexes.html#annexe-a",
-    "title": "Annexes",
-    "section": "",
-    "text": "Contenu de l’annexe A."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Why and How Should the Richest Be Taxed?",
@@ -124,5 +96,33 @@
     "title": "Why and How Should the Richest Be Taxed?",
     "section": "Text length",
     "text": "Text length\n\nThe document contains 14669 words."
+  },
+  {
+    "objectID": "annexes.html",
+    "href": "annexes.html",
+    "title": "Annexes",
+    "section": "",
+    "text": "Contenu de l’annexe A."
+  },
+  {
+    "objectID": "annexes.html#annexe-a",
+    "href": "annexes.html#annexe-a",
+    "title": "Annexes",
+    "section": "",
+    "text": "Contenu de l’annexe A."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Historique des révisions",
+    "section": "",
+    "text": "Première mise en ligne."
+  },
+  {
+    "objectID": "news.html#version-v0",
+    "href": "news.html#version-v0",
+    "title": "Historique des révisions",
+    "section": "",
+    "text": "Première mise en ligne."
   }
 ]

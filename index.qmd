@@ -10,6 +10,11 @@ format:
   wp-pdf:
     output-file: OFCEWP2026-10.pdf
 thanks: "We thank François Geerolf, Eloi Laurent, Xavier Ragot and Xavier Jaravel for their comments, as well as the participants in the OFCE seminar. AI tools were used to translate from the French original: Allègre G. and Timbeau X. (2026), « Pourquoi et comment taxer les plus riches ? Taxe Zucman (TZ) ou taxe sur le revenu économique et certain (tréc) ? », OFCE Working Paper No. 6/2026 — French online version at https://ofce.github.io/trec/."
+format-links:
+  - pdf
+  - format: wp-pdf
+    text: OFCEWP2026-10.pdf
+    icon: file-pdf
 ---
 
 ```{r, include=FALSE}
