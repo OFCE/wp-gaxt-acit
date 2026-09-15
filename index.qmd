@@ -7,12 +7,12 @@ However, while the objective is legitimate, the proposal to tax wealth is incons
 There is an alternative that pursues the same objectives and answers the main objections. Rather than relying on imperfect wealth proxies, we propose to tax economic income directly, that is, annual income flows augmented by capital gains. Current tax law, in France and in other countries, largely exempts realized capital gains. A tax on ascertainable comprehensive income (ACIT) — “ascertainable” in the sense of realized and known with certainty — would eliminate these possibilities of erasure by taxing all capital gains upon sale, as well as upon transfers for consideration or free of charge (gifts and inheritances)."
 format:
   wp-html: default
-  wp-pdf:
+  wp-typst:
     output-file: OFCEWP2026-10.pdf
 thanks: "We thank François Geerolf, Eloi Laurent, Xavier Ragot and Xavier Jaravel for their comments, as well as the participants in the OFCE seminar. AI tools were used to translate from the French original: Allègre G. and Timbeau X. (2026), « Pourquoi et comment taxer les plus riches ? Taxe Zucman (TZ) ou taxe sur le revenu économique et certain (tréc) ? », OFCE Working Paper No. 6/2026 — French online version at https://ofce.github.io/trec/."
 format-links:
-  - pdf
-  - format: wp-pdf
+  - typst
+  - format: wp-typst
     text: OFCEWP2026-10.pdf
     icon: file-pdf
 ---
