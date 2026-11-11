@@ -94,9 +94,9 @@ website:
         href: https://www.linkedin.com/company/ofce/posts/
       - icon: facebook
         href: https://www.facebook.com/ofcesciencespo/
-    logo: /www/ofce.png
+    logo: /www/ifeofce.png
     logo-href: https://www.ofce.fr/
-    logo-alt: logo de l'OFCE
+    logo-alt: logo de l'IFE|OFCE
   other-links:
     - text: Annexes
       icon: file-bar-graph
