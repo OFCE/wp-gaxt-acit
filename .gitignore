@@ -51,3 +51,12 @@ rsconnect/
 /.quarto/
 **/*.quarto_ipynb
 _site
+.positai
+_freeze
+.quarto
+.DS_Store
+.crossrefs
+# FTP differential deploy state (main branch only — committed on deploy branches)
+.ftp-deploy-sync-state.json
+/.luarc.json
+*.pdf
